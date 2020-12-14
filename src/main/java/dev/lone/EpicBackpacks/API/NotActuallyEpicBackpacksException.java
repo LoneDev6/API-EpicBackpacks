@@ -8,7 +8,7 @@ import org.bukkit.plugin.Plugin;
  * <p>
  * Remember, this is just a "mock", not the actual EpicBackpacks project.
  *
- * @author TheBusyBiscuit
+ * @author TheBusyBiscuit and LoneDev
  */
 public class NotActuallyEpicBackpacksException extends UnsupportedOperationException
 {
