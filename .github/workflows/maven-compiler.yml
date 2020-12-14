@@ -3,13 +3,13 @@ name: Java CI
 on:
   push:
     branches:
-    - master
+    - main
     paths:
     - 'src/**'
     - 'pom.xml'
   pull_request:
     branches:
-    - master
+    - main
     paths:
     - 'src/**'
     - 'pom.xml'
