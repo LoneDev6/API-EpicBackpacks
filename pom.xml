@@ -8,7 +8,7 @@
 
     <groupId>dev.lone</groupId>
     <artifactId>epicbackpacks-api</artifactId>
-    <version>1.2.7b</version>
+    <version>1.2.7c</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
