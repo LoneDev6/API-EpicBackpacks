@@ -4,9 +4,9 @@ import org.bukkit.plugin.Plugin;
 
 /**
  * The {@link NotActuallyEpicBackpacksException} is thrown whenever someone seems to
- * invoke an API method without actually having ItemsAdder installed.
+ * invoke an API method without actually having EpicBackpacks installed.
  * <p>
- * Remember, this is just a "mock", not the actual ItemsAdder project.
+ * Remember, this is just a "mock", not the actual EpicBackpacks project.
  *
  * @author TheBusyBiscuit
  */
@@ -23,6 +23,6 @@ public class NotActuallyEpicBackpacksException extends UnsupportedOperationExcep
      */
     public NotActuallyEpicBackpacksException()
     {
-        super("Error: ItemsAdder does not seem to be installed. This is just the API reference, not the actual implementation.");
+        super("Error: EpicBackpacks does not seem to be installed. This is just the API reference, not the actual implementation.");
     }
 }
