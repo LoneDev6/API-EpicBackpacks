@@ -1,6 +1,6 @@
 # ✨ EpicBackpacks - API
 This repository only serves the point of providing access to the method signatures of EpicBackpacks's Java API.<br>
-**This repository does NOT contain the source code of EpicBackpacks, to test and use this, you will still require a copy of [EpicBackpacks](https://www.spigotmc.org/resources/EpicBackpacks.73355/)!**<br>
+**This repository does NOT contain the source code of EpicBackpacks, to test and use this, you will still require a copy of [EpicBackpacks](https://www.spigotmc.org/resources/28981/)!**<br>
 
 <hr>
 <h3 align="center">
